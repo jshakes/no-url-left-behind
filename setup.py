@@ -18,7 +18,7 @@ else:
 
 setup(
     name="nulb",
-    version="1.0.0",
+    version="1.0.1",
     author="James Shakespeare",
     author_email="j@jshakespeare.com",
     description="A tool for detecting 404 errors during website migrations by checking URLs from sitemap.xml files",
